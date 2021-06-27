@@ -1,6 +1,6 @@
-# noto-cjk-fix
+# noto-sans-cjk-tc-fix
 
-A fix for Noto Sans CJK, which doesn't open properly in FontForge.
+A fix for Noto Sans CJK TC, which doesn't open properly in FontForge.
 
 
 ## Steps
