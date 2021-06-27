@@ -26,3 +26,6 @@ A fix for Noto Sans CJK, which doesn't open properly in FontForge.
 
 7. Obtain `NotoSansCJKtc-Regular.otf` as of `2663656`:
    <<https://github.com/googlefonts/noto-cjk/blob/2663656/NotoSansCJKtc-Regular.otf>>
+
+8. Check SHA-256:
+   `b089537a68a5b7ce5fe4fe6cd2667a489aa1016d23d14115bf032899e420b635`
