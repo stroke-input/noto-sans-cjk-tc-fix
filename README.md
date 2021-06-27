@@ -29,3 +29,7 @@ A fix for Noto Sans CJK, which doesn't open properly in FontForge.
 
 8. Check SHA-256:
    `b089537a68a5b7ce5fe4fe6cd2667a489aa1016d23d14115bf032899e420b635`
+
+9. Open `NotoSansCJKtc-Regular.otf` with trial version of FontLab 7
+
+10. Export font to `NotoSansCJKtc-Regular-FIXED.ttf`
