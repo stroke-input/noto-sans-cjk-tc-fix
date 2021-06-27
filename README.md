@@ -12,7 +12,7 @@ still licensed under [Apache 2.0] (which is compatible with GPL-3.0).
 [Apache 2.0]: https://github.com/googlefonts/noto-cjk/blob/2663656/LICENSE
 
 
-## Steps that were followed to produce [`NotoSansCJKtc-Regular-FIXED.ttf`]
+## Steps followed to produce [`NotoSansCJKtc-Regular-FIXED.ttf`]
 
 1. Head to <<https://github.com/googlefonts/noto-cjk>>
 
