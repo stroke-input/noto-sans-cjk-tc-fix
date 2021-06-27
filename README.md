@@ -3,6 +3,15 @@
 A fix for Noto Sans CJK TC, which doesn't open properly in FontForge.
 
 
+## License
+
+This fix is based on an [older version] of the font
+still licensed under [Apache 2.0] (which is compatible with GPL-3.0).
+
+[older version]: https://github.com/googlefonts/noto-cjk/tree/2663656
+[Apache 2.0]: https://github.com/googlefonts/noto-cjk/blob/2663656/LICENSE
+
+
 ## Steps
 
 1. Head to <<https://github.com/googlefonts/noto-cjk>>
