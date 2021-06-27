@@ -12,7 +12,7 @@ still licensed under [Apache 2.0] (which is compatible with GPL-3.0).
 [Apache 2.0]: https://github.com/googlefonts/noto-cjk/blob/2663656/LICENSE
 
 
-## Steps
+## Steps that were followed to produce [`NotoSansCJKtc-Regular-FIXED.ttf`]
 
 1. Head to <<https://github.com/googlefonts/noto-cjk>>
 
@@ -42,3 +42,5 @@ still licensed under [Apache 2.0] (which is compatible with GPL-3.0).
 9. Open `NotoSansCJKtc-Regular.otf` with trial version of FontLab 7
 
 10. Export font to `NotoSansCJKtc-Regular-FIXED.ttf`
+
+[`NotoSansCJKtc-Regular-FIXED.ttf`]: NotoSansCJKtc-Regular-FIXED.ttf
